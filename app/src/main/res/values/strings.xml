@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Students Finder</string>
+
+    <string name="id">0</string>
+    <string name="name">Name</string>
+    <string name="distance">0 km</string>
+
+    <string name="list">List</string>
+</resources>
